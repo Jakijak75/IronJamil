@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>auto_connect</key>
+	<true/>
+	<key>encrypted</key>
+	<false/>
+	<key>format</key>
+	<string>connection bundle</string>
+	<key>include_session</key>
+	<true/>
+	<key>save_editor_content</key>
+	<true/>
+	<key>save_password</key>
+	<false/>
+	<key>version</key>
+	<integer>1</integer>
+	<key>windows</key>
+	<array>
+		<dict>
+			<key>frame</key>
+			<string>{{0, 53}, {1440, 824}}</string>
+			<key>selectedTabIndex</key>
+			<integer>0</integer>
+			<key>tabs</key>
+			<array>
+				<dict>
+					<key>isAbsolutePath</key>
+					<false/>
+					<key>path</key>
+					<string>B706177E-5C56-4EBD-9C3A-CC631206A39B.spf</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>frame</key>
+			<string>{{0, 53}, {1440, 824}}</string>
+			<key>selectedTabIndex</key>
+			<integer>0</integer>
+			<key>tabs</key>
+			<array>
+				<dict>
+					<key>isAbsolutePath</key>
+					<false/>
+					<key>path</key>
+					<string>6E9F9882-0DEA-4F96-959D-76A3E45C36E1.spf</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>frame</key>
+			<string>{{0, 53}, {1440, 824}}</string>
+			<key>selectedTabIndex</key>
+			<integer>0</integer>
+			<key>tabs</key>
+			<array>
+				<dict>
+					<key>isAbsolutePath</key>
+					<false/>
+					<key>path</key>
+					<string>2D34DB81-E317-4197-9AFA-0BF93C6086B2.spf</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>frame</key>
+			<string>{{0, 53}, {1440, 824}}</string>
+			<key>selectedTabIndex</key>
+			<integer>0</integer>
+			<key>tabs</key>
+			<array>
+				<dict>
+					<key>isAbsolutePath</key>
+					<false/>
+					<key>path</key>
+					<string>E98D743C-D8E1-4E44-A3C5-03B2364D7ACF.spf</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
